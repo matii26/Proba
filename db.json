@@ -1,25 +1,28 @@
 {
-    "pytania":[
+    "DoZrobienia":[
         {
-            "tresc": "Stolicą Polski było",
-            "odpa": "Wilkowyje",
-            "odpb": "Gniezno",
-            "odpc": "Kowno",
-            "poprawna": 1
+            "nazwaRzeczy": "projektMobilne",
+            "priorytet": 2,
+            "data": "15-05-2024",
+            "zrealizowane": "TAK"     
         },
         {
-            "tresc": "Prezydentem Polski był",
-            "odpa": "Jarosław Kaczyński",
-            "odpb": "Lecha Wałęsa",
-            "odpc": "Paweł Kozioł",
-            "poprawna": 1
+           "nazwaRzeczy": "projektDesktopowe",
+            "priorytet": 2,
+            "data": "15-05-2024",
+            "zrealizowane": "NIE"           
         },
         {
-            "tresc": "Ostatnie wybory to wybory",
-            "odpa": "parlamentarne",
-            "odpb": "prezydenckie",
-            "odpc": "samorządowe",
-            "poprawna": 2
+            "nazwaRzeczy": "PrawoJazdy",
+            "priorytet": 1,
+            "data": "24-10-2024",
+            "zrealizowane": "NIE"              
+        },
+        {
+            "nazwaRzeczy": "Koncert",
+            "priorytet": 0,
+            "data": "01-03-2024",
+            "zrealizowane": "TAK"    
         }
     ]
 }
